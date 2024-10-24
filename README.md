@@ -1,4 +1,4 @@
-![](https://github.com/clonck-man/Berthier/blob/main/imgs/banner.png)
+![](https://github.com/clonck-man/Berthier/blob/master/imgs/banner.png)
 
 # Berthier
 
